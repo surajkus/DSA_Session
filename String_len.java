@@ -14,7 +14,7 @@ public class String_len {
              }
         }
         if(!check) {
-            System.out.println("not Founded");
+            System.out.println("not Founded") ;
         }
     }
 }
