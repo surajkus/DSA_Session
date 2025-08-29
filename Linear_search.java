@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class String_len {
+public class Linear_search {
     public static void main(String argus[]){
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter your number you want to search");
