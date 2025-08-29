@@ -10,6 +10,6 @@ public class string_len {
         for(int i=0;i<str1.length;i++){
              name +=str1[i];
         }
-        System.out.println(name.length()-1);
+        System.out.println(name.length()-1) ;
     }
 }
