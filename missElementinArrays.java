@@ -8,7 +8,7 @@ public class missElementinArrays {
              if(arr[i]!=a){
                  res=a;
         System.out.println(res);
-                 return;
+                 return ;
              }
                   a++;
          }
