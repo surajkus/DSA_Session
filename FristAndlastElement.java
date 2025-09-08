@@ -7,7 +7,7 @@ public class FristAndlastElement {
 
         Scanner sc =new Scanner(System.in);
         System.out.println("Enter key value = ");
-        int arr[] ={1,3,5,19,50,50,50,22,30,33,49};
+        int arr[] ={1,3,5,19,50,50,50,60,67,100,149};
          int key=sc.nextInt();
          int flag=0,res=0,lastElement=0,fristElement=0;
          int i=0,j=arr.length,mid=0;

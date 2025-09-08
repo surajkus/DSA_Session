@@ -25,7 +25,7 @@ public class Targetfind_bin {
     }
        if(flag==1){
         System.out.println("Element is found at indexing = "+res);
-        System.out.println("Number of target taken: = " +steps);
+        System.out.println("Number of target taken: = " +steps +  " Times");
     }
        else{
         System.out.println("Element is not found");
