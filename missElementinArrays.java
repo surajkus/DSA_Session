@@ -8,6 +8,7 @@ public class missElementinArrays {
          for(int i=0;i<arr.length;i++){
              if(arr[i]!=a){
                  res=a;
+
         System.out.println(res);
                  return ;
              }
